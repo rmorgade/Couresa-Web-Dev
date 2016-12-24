@@ -1,0 +1,23 @@
+.navbar {
+	background-color: grey;
+}
+
+.navbar-brand  p{
+	color: black;
+	font-size: 1.5em;	
+}
+
+.cell {
+  background-color: gray;
+}
+
+/* Section Title Style */
+.paragraph-title {
+  text-align: center;
+  font-size: 125%;
+
+}
+
+#bs-example-navbar-collapse-1 {
+	background-color: lightgrey;
+}
