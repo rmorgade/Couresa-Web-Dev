@@ -18,6 +18,9 @@
 
 }
 
-#bs-example-navbar-collapse-1 {
+#bs-example-navbar-collapse-1 li{
 	background-color: lightgrey;
+	border-color: black;
+	border: 2px;
+	margin: 2px auto 2px;
 }
